@@ -1,0 +1,30 @@
+{
+  "botToken": "OTcwNzI0MTA2MzkzNzU5Nzc0.YnAHRg.KB0YdaLPgKBRzKM2MtQmwmmFm4w",
+  "botOwner": "759849727189057567",
+  "botPrefix": ".",
+  "botVoiceChannel": "976140150448980003",
+  "botActivityName": "Adelicia 💚 Rencia",
+  "botActivityType": "WATCHING",
+  "botStatus": "idle",
+
+  "mongoConnectionLink": "mongodb+srv://rencia:Vahap2020@cluster0.jxyds.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "976160058201227324",
+  "rulesChannel": "976161222384816158",
+  "Suspicious": "976500482086424656",
+  "Unregistered": "976369189117902918",
+
+
+  "FamilyRole": "976501923656110090",
+  "Tag": "∞",
+  "Untag": "∞",
+
+  "RegisterStaff": ["728931818182541392", "976512278012776458","889363583249563658"],
+  "ManRole": "976166913178734602",
+  "WomanRole": "976168196019220570",
+  "BoosterRole": "976531133997125643",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
